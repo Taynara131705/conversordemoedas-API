@@ -1,4 +1,4 @@
-Claro! Aqui está um modelo de README.md completo e profissional para o seu projeto de conversor de moedas. Você pode copiar e colar este conteúdo em um arquivo chamado README.md na pasta raiz do seu projeto.
+
 
 🪙 Conversor de Moedas Real-Time
 
@@ -11,15 +11,13 @@ Um conversor de moedas simples e intuitivo que utiliza a Awesome API para fornec
 
 Sobre o Projeto
 
-✨ Funcionalidades
+✨ Funcionalidades: Conversão de moedas em tempo real.
 
-🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas: Html, Css, JavaScript e json.
 
-🚀 Como Executar
+🚀 Como Executar: incluir o valor real e selecionar a moeda de escolha para cotação. 
 
-🔗 API
-
-🧑‍💻 Autor
+🔗 API: https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL.
 
 📖 Sobre o Projeto
 
