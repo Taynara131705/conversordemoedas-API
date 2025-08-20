@@ -4,7 +4,7 @@ Claro! Aqui está um modelo de README.md completo e profissional para o seu proj
 
 Um conversor de moedas simples e intuitivo que utiliza a Awesome API para fornecer cotações em tempo real do Real Brasileiro para Dólar, Euro e Bitcoin.
 
-![alt text](https-i-imgur-com-kfz5q5b-png)
+(https-i-imgur-com-kfz5q5b-png)
 <!-- Substitua pelo link de uma imagem ou GIF do seu projeto -->
 
 📋 Índice
