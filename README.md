@@ -82,6 +82,6 @@ Feito com ❤️ por Taynara Cristina
 
 LinkedIn: linkedin.com/in/seu-usuario
 
-GitHub: @](https://github.com/Taynara131705)
+GitHub: @Taynara131705)
 
 Email: taynaralaura2017@gmail.com
