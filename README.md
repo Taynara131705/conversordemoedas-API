@@ -4,8 +4,8 @@ Claro! Aqui está um modelo de README.md completo e profissional para o seu proj
 
 Um conversor de moedas simples e intuitivo que utiliza a Awesome API para fornecer cotações em tempo real do Real Brasileiro para Dólar, Euro e Bitcoin.
 
-(https-i-imgur-com-kfz5q5b-png)
-<!-- Substitua pelo link de uma imagem ou GIF do seu projeto -->
+(https://taynara131705.github.io/conversordemoedas-API/)
+
 
 📋 Índice
 
@@ -57,35 +57,9 @@ JavaScript (ES6+): Lógica principal da aplicação e interatividade.
 
 Awesome API: Fornecedor dos dados de cotação das moedas.
 
-🚀 Como Executar
 
-Para executar este projeto localmente, siga os passos abaixo:
 
-Clone o repositório:
 
-code
-Bash
-download
-content_copy
-expand_less
-
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-(Substitua com o URL do seu repositório)
-
-Navegue até a pasta do projeto:
-
-code
-Bash
-download
-content_copy
-expand_less
-IGNORE_WHEN_COPYING_START
-IGNORE_WHEN_COPYING_END
-cd nome-do-repositorio
-
-Abra o arquivo index.html:
-Basta abrir o arquivo index.html no seu navegador de preferência. Não é necessário nenhum servidor ou instalação de dependências.
 
 🔗 API
 
@@ -110,4 +84,4 @@ LinkedIn: linkedin.com/in/seu-usuario
 
 GitHub: @](https://github.com/Taynara131705)
 
-Email: seu-email@exemplo.com
+Email: taynaralaura2017@gmail.com
