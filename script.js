@@ -42,7 +42,7 @@ const convertValues = async () => {
         }
 
         if (currencySelectTo.value === "₿ Bitcoin") {
-            currencyValueText.innerHTML = (inputReais / bitcoin / 1000).toFixed(5)
+    currencyValueText.innerHTML = (inputReais / bitcoin).toFixed(5)
         }
 
 }
@@ -98,4 +98,5 @@ const changeCurrencyTo = () => {
 // Adiciona "escutadores" de eventos que disparam as funções quando o usuário interage com a página.
 button.addEventListener('click', convertValues)
 currencySelectFrom.addEventListener('change', changeCurrencyFrom)
+
 currencySelectTo.addEventListener('change', changeCurrencyTo)
